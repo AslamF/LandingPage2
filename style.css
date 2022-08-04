@@ -82,6 +82,7 @@ img{
     display: flex;
     gap:4em;
     justify-content: center;
+    padding-bottom: 50px;
     
 
 }
@@ -96,3 +97,29 @@ img{
     width: 250px;
     word-break: break-all;
 }
+
+
+
+
+.quote-container{
+    background-color: #e5e7eb;display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+
+.center{
+    width: 40%;
+}
+
+.quote-text{
+    color: black;
+}
+#quote-text-right{
+    color: black;
+    text-align: right;
+
+}
+
+   
+
